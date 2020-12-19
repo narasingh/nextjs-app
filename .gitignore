@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+#service worker
+**/public/workbox-*.js
+**/public/sw.js
+
 # testing
 /coverage
 
